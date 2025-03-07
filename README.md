@@ -32,7 +32,3 @@ Este es un programa en Java que permite al usuario generar un cuadrado de asteri
 - Java 8 o superior.
 - Entorno de desarrollo para ejecutar programas Java.
 
-## Licencia:
-
-Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo `LICENSE`.
-
